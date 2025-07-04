@@ -1,7 +1,7 @@
 
 
-```markdown
-# LogoSoft‑Projects
+
+LogoSoft‑Projects
 
 A  collection of Siemens LOGO! PLC automation projects built with LOGO!Soft Comfort (v8.x). Each folder contains source files (.lsc), documentation, and simulation assets for educational or hobbyist use.
 
@@ -53,28 +53,20 @@ Circuit diagram for a basic control application (e.g., lamp or motor). Visualize
 
 
 ---
-
-## ⚙️ Getting Started
+ ⚙️ Getting Started
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/VedantJadhav258/LogoSoft-Projects.git
-````
-
+   ```bash git clone https://github.com/VedantJadhav258/LogoSoft-Projects.git
 2. Open `.lsc` files in **LOGO!Soft Comfort v8.x**.
 3. Optionally, use any provided circuit diagrams or documentation to understand logic flow.
+ 
 
----
-
-
-
-## 🤝 Contributing
+ 🤝 Contributing
 
 Contributions welcome! To add your own project:
 
 1. Fork this repo and add a new project folder.
 2. Include `.lsc` source, diagrams, and a mini-README explaining inputs, outputs, and behavior.
 3. Submit a pull request — I’d love to review and merge it!
-
 ---
 
