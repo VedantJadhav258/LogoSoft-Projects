@@ -32,23 +32,6 @@ Circuit diagram for a basic control application (e.g., lamp or motor). Visualize
 
 
 
-## 📁 Repository Structure
-
-```
-
-/
-├── StairCaseSwitch/
-│   └── StairCaseSwitch.lsc
-├── StairCaseSwitchWithPot/
-│   └── StairCaseSwitchWithPot.lsc
-├── SodaFillingConveyor/
-│   ├── LOGO\_Soda\_Filling\_Conveyor.lsc
-│   ├── Electrical Diagrams/
-│   ├── My\_UDF\_Blocks/
-│   └── README.md
-└── README.md
-
-````
 
 
 
